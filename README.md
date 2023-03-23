@@ -1,1 +1,2 @@
-# Projects
+# Image Processing using NumPy
+
