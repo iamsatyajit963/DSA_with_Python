@@ -1,2 +1,1 @@
-# Image Processing using NumPy
-
+# All related to python programming language
